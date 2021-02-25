@@ -1,0 +1,8 @@
+name: python 3.6.8
+dependencies:
+  - python=3.6.8
+  - numpy
+  -numba >= 0.51.2
+  -scikit-image
+  -scipy
+  -matplotlib >= 3.3.4
